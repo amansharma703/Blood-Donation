@@ -18,7 +18,7 @@ Preview            |  Preview
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Expo CLI](https://docs.expo.dev/) installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Composer](https://getcomposer.org/) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
